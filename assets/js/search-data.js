@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-detecting-employee-attrition",
+          title: 'Detecting Employee Attrition',
+          description: "Detecting Attrition Using KNN and Naive Bayes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AttritionProjectRCode_NinoCastellano/";
             },},{
         id: 'social-email',
         title: 'email',

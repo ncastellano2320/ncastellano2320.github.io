@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a computer science and data science graduate from SMU whose curiosity for problem-solving naturally evolved into a passion for turning data into stories, insights, and real impact. What began as a second major in data science quickly grew into something much bigger—a field I genuinely love and want to pursue for the rest of my life.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently pursuing an online Master of Science in Data Science at Southern Methodist University with a specialization in machine learning, and it has been one of the most fulfilling parts of my journey so far. I’m genuinely enjoying the projects, the coursework, and especially the people I’ve been able to connect with—fellow aspiring data scientists who share the same drive, curiosity, and excitement for the field. Collaborating with such talented individuals, exchanging ideas, and learning from one another has been both inspiring and motivating.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My background spans academic research, hands-on machine learning projects, and roles in mentorship and client-facing environments. These experiences strengthened not only my technical foundation but also my ability to communicate complex ideas clearly and build strong relationships—skills that are essential for bridging data and decision-making.
+
+I’ve found fulfillment in uncovering hidden patterns, solving meaningful problems, and creating clarity from complexity. Data science is where creativity, logic, and storytelling meet—and that blend is what keeps me inspired both in and outside of work. Today, I’m committed to mastering the craft of data science and applying it to deliver value across diverse industries. I’m excited to continue growing, creating, and solving through data—and to bring that passion into every project I take on.

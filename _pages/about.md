@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Science Role Loading...
 
 profile:
   align: right
@@ -10,8 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Data Science Masters Student</p>
-    <p>922 South Edgefield Avenue</p>
-    <p>Dallas, TX 75208</p>
+    <p>Southern Methodist University</p>
+    <p>B.A. Computer Science</p>
+    <p>B.S. Data Science</p>
+    <p>Buisness Minor</p>
+    <p>Dallas, TX</p>
+    <p>Oak Cliff Native</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a computer science and data science graduate from SMU whose curiosity for problem-solving naturally evolved into a passion for turning data into stories, insights, and real impact. What began as a second major in data science quickly grew into something much bigger—a field I genuinely love and want to pursue for the rest of my life.
+Hi! My name is Nino and I am a former computer science and data science graduate from SMU whose curiosity for problem-solving naturally evolved into a passion for turning data into stories, insights, and real impact. What began as a second major in data science quickly grew into something much bigger—a field I genuinely love and want to pursue for the rest of my life.
 
 I’m currently pursuing an online Master of Science in Data Science at Southern Methodist University with a specialization in machine learning, and it has been one of the most fulfilling parts of my journey so far. I’m genuinely enjoying the projects, the coursework, and especially the people I’ve been able to connect with—fellow aspiring data scientists who share the same drive, curiosity, and excitement for the field. Collaborating with such talented individuals, exchanging ideas, and learning from one another has been both inspiring and motivating.
 

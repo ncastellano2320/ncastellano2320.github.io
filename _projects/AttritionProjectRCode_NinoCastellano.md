@@ -4,7 +4,7 @@ title: Detecting Employee Attrition
 description: Detecting Attrition Using KNN and Naive Bayes
 img: AttritionCoverImage.jpg
 importance: 1
-category: work
+category: Masters
 ---
 <!DOCTYPE html>
 

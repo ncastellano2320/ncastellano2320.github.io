@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ncastellano2320
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ncastellano2320/Stock-Action-Prediction-Classifier
+  - ncastellano2320/CaseStudy1DDS
+

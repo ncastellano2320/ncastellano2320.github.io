@@ -14,8 +14,7 @@ profile:
     <p>B.A. Computer Science</p>
     <p>B.S. Data Science</p>
     <p>Buisness Minor</p>
-    <p>Dallas, TX</p>
-    <p>Oak Cliff Native</p>
+    <p>Dallas, TX (Oak Cliff)</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
